@@ -3,7 +3,7 @@
 
 Name:		perl-%{upstream_name}
 Version:	%perl_convert_version 0.09
-Release:	2
+Release:	3
 
 Summary:	Easy interface to IO::Pty
 License:	GPL+ or Artistic
