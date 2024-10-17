@@ -8,7 +8,7 @@ Release:	3
 Summary:	Easy interface to IO::Pty
 License:	GPL+ or Artistic
 Group:		Development/Perl
-Url:		http://search.cpan.org/dist/%{upstream_name}
+Url:		https://search.cpan.org/dist/%{upstream_name}
 Source0:	http://www.cpan.org/modules/by-module/IO/IO-Pty-Easy-0.09.tar.gz
 
 BuildRequires:	perl-devel
